@@ -1,8 +1,8 @@
 ---
-title: On John & Paul: A Love Story in Songs
+title: "On John & Paul: A Love Story in Songs"
 date: 2026-01-11
 categories:
--Books
+- Books
 slug: on-john-and-paul 
 draft: false
 ---
