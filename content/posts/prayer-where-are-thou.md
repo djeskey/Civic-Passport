@@ -1,0 +1,10 @@
+---
+title: Prayer, Where Art Thou
+date: 2025-02-14T17:48:34-0500
+lastmod: 2025-08-18T17:42:12-0500
+slug: prayer-where-are-thou
+draft: false
+---
+For years I have struggled with prayer.  What it really boils down to is a version of the problem of evil, and almost entirely involves intercessory prayer.  There are millions of people around the world who live in absolute poverty.  It's not just that they live on little, but they live on nothing.  They have kids who are dying of starvation or incurable (or curable) diseases.  They aren't healed or fed.  Wives see their husbands and mothers their sons go off to war and killed for territorial gain or the glory of the tyrants.  And even in our first world societies, people see loved ones die of cancer, killed in accidents or die on the operating table.  In all of these some having prayers offered, and others not, but in all of these that end, not being answered.  Yet so many Christians will thank God for answering prayers for getting money to pay for their apartment, or something trivial.  They will praise God for cancer cured in a loved one, while someone else's child dies because their parent had Aids and passed it on to them.  Why should God honor my intercessory prayer when another person's prayer goes unanswered, or someone dies that no one is praying for?  None of it seems fair or right.  In most cases I find it next to impossible to pray of my own volition.  If someone asks me, I will say a prayer because I want to honor their request.  
+
+Yes I can at times doubt God's existence or the resurrection.  But those things don't trouble me like the above does.  Frankly, I find both doctrines easier to believe, than intercessory prayer.  I read scripture almost every day, and offer various forms of prayers.  However, asking God for things and hoping/expecting them to be granted just doesn't strike me as right.  Maybe someday I will find a way to reconcile this inner tension within my faith.  For me this is actually less about belief in a loving God.  The teachings of Jesus and the demonstration in his own life do actually square that circle for me.   

@@ -1,0 +1,17 @@
+---
+title: About Last Night
+date: 2024-11-06T13:38:54-0500
+lastmod: 2025-08-18T17:42:12-0500
+categories:
+- Politics
+slug: about-last-night
+draft: false
+---
+So Donald Trump has been elected president once again. I have had a feeling for a while that this would happen, but was hoping it would not be the case. It turns out the sense of doom felt by Democrats was justified. Mr. Trump will take the presidency having most likely secured the popular vote for the first time for him, as well as the first time for a Republican in 20 years. It troubles me the extent to which the American people have been so clearly willing to entrust themselves to a man who is so fully unfit for office, especially when there was a person running against him in Harris who was plenty qualified for it. What I want to do though here is step back and take a look at the election and what might be gleaned from it. I think an important aspect here is how much Biden was disapproved of by the electorate primarily because of inflation, regardless of how much blame he actually bears for that. 
+
+But it does bring me to what I think is an important observation about people and their motivations. People crave security. I’m definitely not saying that this is the only reason Trump won. People are complex and there are all kinds of motivations going on underneath. However, I do think that security is a unifying theme that bridges the reasons that people voted for Trump. I think people are primarily motivated by concerns about security, whether that be economic or otherwise. The pandemic itself was a massive breach of peoples feelings of security of their health, and then inflation brought fears of peoples’ feelings of security in regards to the economy. Add massive migrant flows to the equation and the recipe is ripe for people turning to someone who pledges to bring them the security they are craving. Democrats did try to play on another aspect of peoples security, and that would be the security of our form of government, but ultimately that is an abstraction that just doesn’t cut through to most people. When Biden was elected people were hoping to go back to the way things were before the pandemic, and unfortunately, they don’t feel like he did that. So they hope that Trump will be able to do that. Color me skeptical.
+
+The best opportunity Democrats would have had would have been for President Biden to have announced in 2023 that he was not running for reelection and allow an actual primary to take place that would have been competitive and have brought candidates who had no ties to the current administration. It is still possible though that Trump might have been any Democrat in hindsight, but that’s a tough counterfactual. 
+
+People turn to government for security. They always have, and always will. When there is an absence of legitimate forms of power, then illegitimate forms will take its place in a vacuum. Democrats failed to address those concerns, and we all pay the price now. Liberalism must find a way to return to addressing people’s needs for security in a way that marries the principles of liberal democracy and capitalism, to their immediate needs. Somewhere along the way that plot seems to have been lost. It is no longer to enough just to say “Trump bad” and “GOP bad”. Lord willing, this is the last time Trump is able to run anyway. Democrats lost ground across the board and will need some extensive soul searching to repair itself and win back people’s trust. 
+

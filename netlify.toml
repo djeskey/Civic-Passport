@@ -1,0 +1,10 @@
+# This file is also compatible with Cloudflare Pages
+[build]
+  publish = "public"
+  command = "hugo --gc --minify"
+
+[build.environment]
+  HUGO_VERSION = "0.154.4"
+
+[context.production.environment]
+  HUGO_ENV = "production"
