@@ -67,10 +67,16 @@ theme = 'PaperMod'
     weight = 3
 
   [[menu.main]]
+    identifier = "whats-im-into"
+    name = "What I'm Into"
+    url = "/whats-im-into/"
+    weight = 4
+
+  [[menu.main]]
     identifier = "search"
     name = "Search"
     url = "/search/"
-    weight = 4
+    weight = 5
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
