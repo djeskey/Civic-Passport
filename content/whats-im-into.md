@@ -168,7 +168,7 @@ summary: "Books, movies, shows, podcasts, and links I'm currently enjoying"
     </div>
   </div>
 
-  <!-- Podcasts & Music Widget -->
+  <!-- Podcasts & Music Widget
   <div class="widget">
     <div class="widget-header">
       <span class="widget-icon">🎧</span>
@@ -185,8 +185,9 @@ summary: "Books, movies, shows, podcasts, and links I'm currently enjoying"
       </div>
     </div>
   </div>
+  -->
 
-  <!-- Links & Articles Widget -->
+  <!-- Links & Articles Widget 
   <div class="widget">
     <div class="widget-header">
       <span class="widget-icon">🔗</span>
@@ -204,6 +205,7 @@ summary: "Books, movies, shows, podcasts, and links I'm currently enjoying"
       <div class="link-item">
         <a href="https://example.com" target="_blank" rel="noopener">Interesting Resource</a>
         <div class="link-description">What you'll find here...</div>
+        -->
       </div>
     </div>
   </div>
