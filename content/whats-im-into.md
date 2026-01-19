@@ -121,9 +121,9 @@ summary: "Books, movies, shows, podcasts, and links I'm currently enjoying"
     </div>
     <div class="widget-content">
       <div class="widget-item">
-        <div class="item-title">Book Title Here</div>
-        <div class="item-subtitle">by Author Name</div>
-        <div class="item-note">Your thoughts or progress notes go here...</div>
+        <div class="item-title">All The Sinners Bleed</div>
+        <div class="item-subtitle">by S.A. Cosby</div>
+        <div class="item-note">I've heard good things about this book and have started it.</div>
       </div>
     </div>
   </div>
@@ -136,19 +136,19 @@ summary: "Books, movies, shows, podcasts, and links I'm currently enjoying"
     </div>
     <div class="widget-content">
       <div class="widget-item">
-        <div class="item-title">Movie Title 1</div>
-        <div class="item-subtitle">Year • Director</div>
-        <div class="item-note">Quick review or rating...</div>
+        <div class="item-title">The Housemaid</div>
+        <div class="item-subtitle">2025 • Paul Feig</div>
+        <div class="item-note"></div>
       </div>
       <div class="widget-item">
-        <div class="item-title">Movie Title 2</div>
-        <div class="item-subtitle">Year • Director</div>
-        <div class="item-note">Quick review or rating...</div>
+        <div class="item-title">What Lies Beneath</div>
+        <div class="item-subtitle">2000 • Robert Zemeckis</div>
+        <div class="item-note"></div>
       </div>
       <div class="widget-item">
-        <div class="item-title">Movie Title 3</div>
-        <div class="item-subtitle">Year • Director</div>
-        <div class="item-note">Quick review or rating...</div>
+        <div class="item-title">Sicario</div>
+        <div class="item-subtitle">2015 • Denis Villeneuve</div>
+        <div class="item-note"></div>
       </div>
     </div>
   </div>
@@ -161,9 +161,9 @@ summary: "Books, movies, shows, podcasts, and links I'm currently enjoying"
     </div>
     <div class="widget-content">
       <div class="widget-item">
-        <div class="item-title">Show Title Here</div>
-        <div class="item-subtitle">Network/Streaming Service</div>
-        <div class="item-note">Season/episode or your thoughts...</div>
+        <div class="item-title">The Pitt</div>
+        <div class="item-subtitle">HBO Max</div>
+        <div class="item-note">Have watched through season 2 episode 2.</div>
       </div>
     </div>
   </div>
