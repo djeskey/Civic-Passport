@@ -205,9 +205,10 @@ summary: "Books, movies, shows, podcasts, and links I'm currently enjoying"
       <div class="link-item">
         <a href="https://example.com" target="_blank" rel="noopener">Interesting Resource</a>
         <div class="link-description">What you'll find here...</div>
-        -->
+        
       </div>
     </div>
+    -->
   </div>
 </div>
 
